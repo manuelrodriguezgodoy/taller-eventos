@@ -1,4 +1,4 @@
-document.getElementById("soyDiv").addEventListener("click", function (saludar){
+document.getElementById("soyDiv").addEventListener("click", function (){
     alert('¡Hola!, soy el Div');
 })
 
