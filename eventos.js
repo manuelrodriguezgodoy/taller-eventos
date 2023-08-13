@@ -4,4 +4,5 @@ document.getElementById("soyDiv").addEventListener("click", function (){
 
 function saludar(){
     alert('¡Hola!');
+    event.stopPropagation()
 }
